@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OpenWorld.unity
+    guid: 133f347339f4de9458db2a0e416611dc
+  - enabled: 1
+    path: Assets/Scenes/BattleBeach.unity
+    guid: f38640977b8713941b9c3f39a1f49343
+  - enabled: 1
+    path: Assets/Scenes/BattleForest1.unity
+    guid: 9aae1cb014ea7ab4ba7f620d7861eae4
+  - enabled: 1
+    path: Assets/Scenes/BattleForest2.unity
+    guid: 8252731d59424224f9aad75395c829cc
+  - enabled: 1
+    path: Assets/Scenes/BattleMountain.unity
+    guid: 5d09bdfe85e2ea744ac6dbcfb43178a9
+  - enabled: 1
+    path: Assets/Scenes/BattleBoss.unity
+    guid: 45fc7ca554d856b48b823c138e56504d
+  m_configObjects: {}
